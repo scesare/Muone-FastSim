@@ -1,0 +1,6 @@
+<cfi>
+0        # detector resolution model: 0=simplest-2par; 1=Antonio's 3 par
+0        # 0:default; 1:MS only on X plane; 2: polar angle smearing
+0.0425   # 0.042925 # total material thickness for model 0 (in X0) / 1.5cm Be = 0.0425 X0
+0.02     # intr.ang.resol. for model 0 (in mrad) // optimal 10um/50cm=0.02 mrad
+</cfi>

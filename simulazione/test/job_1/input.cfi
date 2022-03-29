@@ -1,8 +1,0 @@
-<cfi>
-mysample.txt # string input_dirs_file; // file containing a list of directory paths where to look for NLO MC events
-100000                     # 10000000  long long n_events; // events to be processed (N>0:N; 0:all; <0: read histograms from existing results)10000000
-results.root            # string histo_ifname; // path to input histo file (kinematical distributions when n_events<0)
-job_22-03-11_15:42:30               # string output_dir; // output directory name
-fastSim.cfi             # string fastSim_ifname; // FastSim cfg file
-analysis.cfi            # string analysis_ifname; // Analysis cfg file
-</cfi>
